@@ -1,0 +1,34 @@
+metadata.txt
+
+FLIGHTS ABOVE ME by Greg FitzGerald
+
+Flight, Airport, and Aircraft data:
+    - All requested from "aviation-edge.com"
+    - Aircraft data requested on click of plane
+    - Subscribed and authorized to use API
+
+Leaflet.js Plugin
+    - Open Source JS Library by Vladimir Agafonkin
+
+leaflet-sidebar plugin for leaflet.js
+    - By Turbo87
+    - https://github.com/Turbo87/leaflet-sidebar
+    - Installed using npm
+
+ipStack
+    - ipstack.com
+    - Used to retrieve coordinates derived from users IP
+    - Subscribed and authorized to use API
+
+Mapbox
+    - Light and Dark basemaps Used
+    - Requested with key
+
+Leaflet Rotated-Marker Plugin
+    - https://github.com/bbecquet/Leaflet.RotatedMarker
+    - By bbecquet
+    - used to rotate markers
+
+Plane Icon Image
+    - https://www.freeiconspng.com/images/airplane-png
+    - Authorized for reuse
